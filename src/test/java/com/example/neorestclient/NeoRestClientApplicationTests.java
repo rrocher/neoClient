@@ -1,4 +1,4 @@
-package com.example.manoCourtage;
+package com.example.neorestclient;
 
 import java.util.List;
 
